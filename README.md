@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./red-coding.jpg" width="100%" alt="Red anime coding artwork" />
+</p>
+
 <h2 align="center">Hi 👋, I'm Pramana Putra</h2>
 
 <p align="center">
@@ -5,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=1200&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Just+Code.+Keep+Building.;Laravel+%C3%97+Next.js;Turning+Ideas+Into+Web+Experiences" alt="Typing animation: Just Code. Keep Building. — Laravel × Next.js — Turning Ideas Into Web Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=1200&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Just+Code.+Keep+Building.;Laravel+%C3%97+Next.js;Turning+Ideas+Into+Web+Experiences" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -13,10 +17,6 @@
 </p>
 
 <br />
-
-<p align="center">
-  <img src="./red-coding.jpg" width="735" alt="Red anime coding artwork" />
-</p>
 
 ## About Me
 
