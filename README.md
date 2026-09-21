@@ -1,3 +1,19 @@
+<h2 align="center">Hi 👋, I'm Pramana Putra</h2>
+
+<p align="center">
+  <b>Full-stack Web Developer</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=1200&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Just+Code.+Keep+Building.;Laravel+%C3%97+Next.js;Turning+Ideas+Into+Web+Experiences" alt="Typing animation: Just Code. Keep Building. — Laravel × Next.js — Turning Ideas Into Web Experiences" />
+</p>
+
+<p align="center">
+  <sub>Building useful web applications with clean interfaces and reliable systems.</sub>
+</p>
+
+<br />
+
 <p align="center">
   <img src="./red-coding.jpg" width="735" alt="Red anime coding artwork" />
 </p>
@@ -10,76 +26,30 @@ I build RESTful APIs, modern interfaces, and containerized applications with **P
 
 I enjoy connecting useful features with clean interfaces — turning an idea into something people can actually use.
 
-<br />
-
-<p align="center">
-  <samp>KEEP LEARNING. KEEP BUILDING.</samp>
-</p>
-
-<br />
-
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/javascript/FF6B75" width="36" height="36" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/FF6B75" width="36" height="36" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.simpleicons.org/react/FF6B75" width="36" height="36" alt="React" title="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/FF6B75" width="36" height="36" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/FF6B75" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/php/FF6B75" width="36" height="36" alt="PHP" title="PHP" />
-  <img src="https://cdn.simpleicons.org/laravel/FF6B75" width="36" height="36" alt="Laravel" title="Laravel" />
-  <img src="https://cdn.simpleicons.org/html5/FF6B75" width="36" height="36" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css/FF6B75" width="36" height="36" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.simpleicons.org/postgresql/FF6B75" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/redis/FF6B75" width="36" height="36" alt="Redis" title="Redis" />
-  <img src="https://cdn.simpleicons.org/docker/FF6B75" width="36" height="36" alt="Docker" title="Docker" />
-  <img src="https://cdn.simpleicons.org/podman/FF6B75" width="36" height="36" alt="Podman" title="Podman" />
-  <img src="https://cdn.simpleicons.org/git/FF6B75" width="36" height="36" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/githubactions/FF6B75" width="36" height="36" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/javascript" width="36" height="36" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript" width="36" height="36" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.simpleicons.org/react" width="36" height="36" alt="React" title="React" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" title="Next.js" />
+  </picture>
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/php" width="36" height="36" alt="PHP" title="PHP" />
+  <img src="https://cdn.simpleicons.org/laravel" width="36" height="36" alt="Laravel" title="Laravel" />
+  <img src="https://cdn.simpleicons.org/html5" width="36" height="36" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css" width="36" height="36" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.simpleicons.org/postgresql" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/redis" width="36" height="36" alt="Redis" title="Redis" />
+  <img src="https://cdn.simpleicons.org/docker" width="36" height="36" alt="Docker" title="Docker" />
+  <img src="https://cdn.simpleicons.org/podman" width="36" height="36" alt="Podman" title="Podman" />
+  <img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/githubactions" width="36" height="36" alt="GitHub Actions" title="GitHub Actions" />
 </p>
-
-<details>
-<summary>Explore my full tech stack</summary>
-
-### Frontend development
-
-| Area | Technologies & practices |
-| --- | --- |
-| Core | TypeScript · JavaScript (ES6+) · HTML5 · CSS3 |
-| Frameworks | Next.js 16 (App Router) · React 19 |
-| Styling & UI | Tailwind CSS v4 · Lucide React · Responsive Design · Glassmorphism / Modern UI |
-| State & architecture | React Context API · Custom Hooks · Service Layer Pattern |
-| Reports & exports | jsPDF · html2canvas · html-to-image |
-
-### Backend development
-
-| Area | Technologies & practices |
-| --- | --- |
-| Core | PHP 8.4 · Object-Oriented Programming (OOP) |
-| Framework & auth | Laravel v11–v13 · Laravel Sanctum (Token & Stateful Auth) |
-| Architecture | RESTful API Design · MVC & Service Layer · Asynchronous Queue Workers |
-| Media, audit & reports | Spatie Media Library · Spatie Activity Log (Audit Trail & Compliance) · DomPDF |
-| Testing & code quality | Pest PHP · PHPUnit · Laravel Pint |
-
-### Database, caching & queues
-
-| Area | Technologies & practices |
-| --- | --- |
-| Relational data | PostgreSQL 15 · Complex Relational Schemas · Migrations & Seeders |
-| Caching & async processing | Redis 7 · Caching · Session Store · Laravel Queue Worker |
-
-### DevOps & workflow
-
-| Area | Technologies & practices |
-| --- | --- |
-| Containers | Docker · Docker Compose · Podman · Multi-container orchestration |
-| CI/CD | GitHub Actions |
-| Version control | Git & GitHub · Conventional Commits · Feature Branching |
-| API specifications | OpenAPI / Swagger 3.0.3 |
-
-</details>
 
 <br />
 
