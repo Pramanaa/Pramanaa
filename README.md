@@ -1,45 +1,49 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Pramana Putra — Building useful things for the web" />
-</p>
-
-<p align="center">
   <img src="./assets/red-coding.jpg" width="735" alt="Red anime coding artwork" />
 </p>
 
-<p align="center">
-  <b>Laravel · Next.js · Containerized Development</b><br />
-  From application logic to thoughtful interfaces.
-</p>
+## About Me
 
-<p align="center">
-  <a href="https://github.com/Pramanaa?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-21090D?style=for-the-badge&logo=github&logoColor=FF6B75" alt="Explore my repositories" /></a>
-  <a href="https://github.com/Pramanaa?tab=stars"><img src="https://img.shields.io/badge/Things_I_follow-21090D?style=for-the-badge&logo=githubsponsors&logoColor=FF6B75" alt="Explore my starred repositories" /></a>
-</p>
+Hi, I'm **Pramana Putra**, a full-stack web developer working with **Laravel**, **Next.js**, and **TypeScript**.
 
-## A little about me
-
-Hi, I'm **Pramana Putra**, a full-stack web developer working with **Laravel**, **Next.js**, and **TypeScript**. I build RESTful APIs, modern interfaces, and containerized applications with **PostgreSQL**, **Redis**, **Docker**, and **Podman**.
+I build RESTful APIs, modern interfaces, and containerized applications with **PostgreSQL**, **Redis**, **Docker**, and **Podman**.
 
 I enjoy connecting useful features with clean interfaces — turning an idea into something people can actually use.
 
-```text
-backend     → RESTful APIs, authentication, and queue workers
-frontend    → responsive interfaces and reusable architecture
-data        → relational schemas, caching, and sessions
-workflow    → containers, automated checks, and CI/CD
-```
+<br />
 
-## My toolkit
+<p align="center">
+  <samp>KEEP LEARNING. KEEP BUILDING.</samp>
+</p>
 
-### Frontend development
+<br />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-21090D?style=for-the-badge&logo=typescript&logoColor=FF6B75)
-![Next.js 16](https://img.shields.io/badge/Next.js%2016-21090D?style=for-the-badge&logo=nextdotjs&logoColor=FF6B75)
-![React 19](https://img.shields.io/badge/React%2019-21090D?style=for-the-badge&logo=react&logoColor=FF6B75)
-![Tailwind CSS v4](https://img.shields.io/badge/Tailwind%20CSS%20v4-21090D?style=for-the-badge&logo=tailwindcss&logoColor=FF6B75)
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/javascript/FF6B75" width="36" height="36" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/FF6B75" width="36" height="36" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.simpleicons.org/react/FF6B75" width="36" height="36" alt="React" title="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FF6B75" width="36" height="36" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/FF6B75" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/php/FF6B75" width="36" height="36" alt="PHP" title="PHP" />
+  <img src="https://cdn.simpleicons.org/laravel/FF6B75" width="36" height="36" alt="Laravel" title="Laravel" />
+  <img src="https://cdn.simpleicons.org/html5/FF6B75" width="36" height="36" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css/FF6B75" width="36" height="36" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.simpleicons.org/postgresql/FF6B75" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/redis/FF6B75" width="36" height="36" alt="Redis" title="Redis" />
+  <img src="https://cdn.simpleicons.org/docker/FF6B75" width="36" height="36" alt="Docker" title="Docker" />
+  <img src="https://cdn.simpleicons.org/podman/FF6B75" width="36" height="36" alt="Podman" title="Podman" />
+  <img src="https://cdn.simpleicons.org/git/FF6B75" width="36" height="36" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/githubactions/FF6B75" width="36" height="36" alt="GitHub Actions" title="GitHub Actions" />
+</p>
 
 <details>
-<summary>Explore the stack</summary>
+<summary>Explore my full tech stack</summary>
+
+### Frontend development
 
 | Area | Technologies & practices |
 | --- | --- |
@@ -49,15 +53,7 @@ workflow    → containers, automated checks, and CI/CD
 | State & architecture | React Context API · Custom Hooks · Service Layer Pattern |
 | Reports & exports | jsPDF · html2canvas · html-to-image |
 
-</details>
-
 ### Backend development
-
-![PHP 8.4](https://img.shields.io/badge/PHP%208.4-21090D?style=for-the-badge&logo=php&logoColor=FF6B75)
-![Laravel 11–13](https://img.shields.io/badge/Laravel%2011%E2%80%9313-21090D?style=for-the-badge&logo=laravel&logoColor=FF6B75)
-
-<details>
-<summary>Explore the stack</summary>
 
 | Area | Technologies & practices |
 | --- | --- |
@@ -67,33 +63,14 @@ workflow    → containers, automated checks, and CI/CD
 | Media, audit & reports | Spatie Media Library · Spatie Activity Log (Audit Trail & Compliance) · DomPDF |
 | Testing & code quality | Pest PHP · PHPUnit · Laravel Pint |
 
-</details>
-
 ### Database, caching & queues
-
-![PostgreSQL 15](https://img.shields.io/badge/PostgreSQL%2015-21090D?style=for-the-badge&logo=postgresql&logoColor=FF6B75)
-![Redis 7](https://img.shields.io/badge/Redis%207-21090D?style=for-the-badge&logo=redis&logoColor=FF6B75)
-
-<details>
-<summary>Explore the stack</summary>
 
 | Area | Technologies & practices |
 | --- | --- |
 | Relational data | PostgreSQL 15 · Complex Relational Schemas · Migrations & Seeders |
 | Caching & async processing | Redis 7 · Caching · Session Store · Laravel Queue Worker |
 
-</details>
-
 ### DevOps & workflow
-
-![Docker](https://img.shields.io/badge/Docker-21090D?style=for-the-badge&logo=docker&logoColor=FF6B75)
-![Podman](https://img.shields.io/badge/Podman-21090D?style=for-the-badge&logo=podman&logoColor=FF6B75)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-21090D?style=for-the-badge&logo=githubactions&logoColor=FF6B75)
-![Git](https://img.shields.io/badge/Git-21090D?style=for-the-badge&logo=git&logoColor=FF6B75)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-21090D?style=for-the-badge&logo=openapiinitiative&logoColor=FF6B75)
-
-<details>
-<summary>Explore the stack</summary>
 
 | Area | Technologies & practices |
 | --- | --- |
@@ -104,18 +81,16 @@ workflow    → containers, automated checks, and CI/CD
 
 </details>
 
-## Contribution playground
+<br />
 
-One contribution at a time.
+<p align="center">
+  <sub>Pramana Putra · Full-stack Web Developer</sub>
+</p>
+
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pramanaa/Pramanaa/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pramanaa/Pramanaa/output/github-snake.svg" />
   <img alt="Animated snake following my GitHub contribution calendar" src="https://raw.githubusercontent.com/Pramanaa/Pramanaa/output/github-snake.svg" width="100%" />
 </picture>
-
-<!-- Run .github/workflows/snake.yml once to generate the images above. -->
-
-<p align="center">
-  <sub>Keep learning. Keep building.</sub>
-</p>
