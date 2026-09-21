@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/red-coding.jpg" width="735" alt="Red anime coding artwork" />
+  <img src="./red-coding.jpg" width="735" alt="Red anime coding artwork" />
 </p>
 
 ## About Me
@@ -90,7 +90,7 @@ I enjoy connecting useful features with clean interfaces — turning an idea int
 ## Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pramanaa/Pramanaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pramanaa/Pramanaa/output/github-snake.svg" />
-  <img alt="Animated snake following my GitHub contribution calendar" src="https://raw.githubusercontent.com/Pramanaa/Pramanaa/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pramanaa/Pramanaa/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pramanaa/Pramanaa/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man animation of my GitHub contributions" src="https://raw.githubusercontent.com/Pramanaa/Pramanaa/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
